@@ -1,0 +1,1 @@
+        fv_pairs.put("${variable}", ${variable});

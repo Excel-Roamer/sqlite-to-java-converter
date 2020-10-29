@@ -1,0 +1,1 @@
+            ${variable} = ${cast}res.get("${variable}").get(0)${str_cast};

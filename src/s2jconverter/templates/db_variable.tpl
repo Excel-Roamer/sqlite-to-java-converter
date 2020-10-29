@@ -1,0 +1,1 @@
+${cast}res.get("${variable}").get(i)${str_cast}
